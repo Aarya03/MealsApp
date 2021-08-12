@@ -1,16 +1,36 @@
 # meals_app
-
 A new Flutter project.
+This app is an entry level multi-page cross-platform application developed using flutter.
+Thsi application provides Recipes and the cost associated for them. We can filter recipes on the bassis of vegetarian, gluten free or not, etc..
 
-## Getting Started
+# User Interface
+<b>Hoempage of the app containing categories of meals</b>
+<p align="center">
+  <img src="Screenshots/S1.png" width="350" title="Login Activity">
+</p>
 
-This project is a starting point for a Flutter application.
+<b>Favorites page with one favorite recipe</b>
+<p align="center">
+  <img src="Screenshots/S8.pn" width="350" title="Register Activity">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<b>Hamburger Menu</b>
+<p align="center">
+  <img src="Screenshots/S3.pn" width="350" title="ItemList Activity">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<b>Filters with vegetarian switched</b>
+<p align="center">
+  <img src="Screenshots/S4.pn" width="350" title="ItemDetails Activity">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<b>Vegetarian Dishes in the Quick and Easy category</b>
+<p align="center">
+  <img src="Screenshots/S5.pn" width="350" title="ItemDetails Activity">
+</p>
+
+<b>Ingredients and Steps page for a Dish</b>
+<p align="center">
+  <img src="Screenshots/S6.pn" width="350" title="ItemDetails Activity">
+</p>
+
