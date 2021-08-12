@@ -10,7 +10,6 @@ class MealItem extends StatelessWidget {
   final int duration;
   final Complexity complexity;
   final Affordability affordability;
-
   String get complexityText {
     switch (complexity) {
       case Complexity.Simple:
