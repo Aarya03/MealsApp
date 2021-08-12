@@ -11,26 +11,26 @@ Thsi application provides Recipes and the cost associated for them. We can filte
 
 <b>Favorites page with one favorite recipe</b>
 <p align="center">
-  <img src="Screenshots/S8.pn" width="350" title="Register Activity">
+  <img src="Screenshots/S8.png" width="350" title="Register Activity">
 </p>
 
 <b>Hamburger Menu</b>
 <p align="center">
-  <img src="Screenshots/S3.pn" width="350" title="ItemList Activity">
+  <img src="Screenshots/S3.png" width="350" title="ItemList Activity">
 </p>
 
 <b>Filters with vegetarian switched</b>
 <p align="center">
-  <img src="Screenshots/S4.pn" width="350" title="ItemDetails Activity">
+  <img src="Screenshots/S4.png" width="350" title="ItemDetails Activity">
 </p>
 
 <b>Vegetarian Dishes in the Quick and Easy category</b>
 <p align="center">
-  <img src="Screenshots/S5.pn" width="350" title="ItemDetails Activity">
+  <img src="Screenshots/S5.png" width="350" title="ItemDetails Activity">
 </p>
 
 <b>Ingredients and Steps page for a Dish</b>
 <p align="center">
-  <img src="Screenshots/S6.pn" width="350" title="ItemDetails Activity">
+  <img src="Screenshots/S6.png" width="350" title="ItemDetails Activity">
 </p>
 
